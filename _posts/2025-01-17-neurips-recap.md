@@ -12,4 +12,4 @@ related_publications: true
 
 **_Abstract_**
 
-This meeting will be a discussion on talks, papers etc, that Israel and Nathalie attend and saw that might be of interest to the group. The paper cover Generalization: Shortcuts, Spuriousness, and Stability, Universal Convergence, Initialization in GNNs and Ablation Scehmes for Interpretability.
+This meeting discussed talks and papers at NeurIPS 2024 that Israel and Nathalie saw that are of interest to the group. The papers covered were: 'Generalization: Shortcuts, Spuriousness, and Stability', 'Universal Convergence', 'Initialization in GNNs' and 'Ablation Scehmes for Interpretability'.
