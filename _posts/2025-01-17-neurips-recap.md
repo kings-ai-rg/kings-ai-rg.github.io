@@ -8,7 +8,7 @@ categories: talks
 related_publications: true
 ---
 
-**[Israel Mason-Williams](https://www.linkedin.com/in/israelfmw/) and [Nathalie Kirch](https://www.linkedin.com/in/nathaliekirch/)** Will be presenting about their time at NeurIPS 2024.
+**[Israel Mason-Williams](https://www.linkedin.com/in/israelfmw/)** and **[Nathalie Kirch](https://www.linkedin.com/in/nathaliekirch/)** will be presenting about their time at NeurIPS 2024.
 
 **_Abstract_**
 

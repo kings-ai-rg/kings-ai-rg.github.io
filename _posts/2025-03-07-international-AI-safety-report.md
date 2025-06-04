@@ -8,7 +8,7 @@ categories: talks
 related_publications: true
 ---
 
-**[Israel Mason-Williams](https://www.linkedin.com/in/israelfmw/), [Nathalie Kirch](https://www.linkedin.com/in/nathaliekirch/) and [Archie Sage](https://www.linkedin.com/in/archie-sage-3388bb260/)** will be a summary of the of International AI Safety Report {% cite bengio2025international %}
+**[Israel Mason-Williams](https://www.linkedin.com/in/israelfmw/)**, **[Nathalie Kirch](https://www.linkedin.com/in/nathaliekirch/)** and **[Archie Sage](https://www.linkedin.com/in/archie-sage-3388bb260/)** will be a summary of the of International AI Safety Report {% cite bengio2025international %}
 
 **_Abstract_**
 
