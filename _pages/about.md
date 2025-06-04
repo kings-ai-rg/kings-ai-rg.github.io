@@ -1,34 +1,34 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+latest_talks:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the Kings AI reading group; we explore a wide variety of topics including, but not limited to:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+- AI Safety and Security
+- (Mechanistic) Interpretability
+- Reinforcement Learning
+- Out-Of-Domain Generalisation 
+- Meta Research
+- AI Governance and Policy
+- Robustness of Neural Networks
+- Adversarial Attacks on Neural Networks
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For an insight into the papers we have previously reviewed, please navigate to our <a href="/papers-explored/index.html">Papers Explored</a> and <a href="/talks-and-papers/index.html">Talks and Papers</a> sections. In this reading group, we foster a community of inquisitiveness and iterative feedback. 
+
+We are looking for a range of presentations that can cover peer-review of existing research, intriguing ideas/experiments that you would like to test the water on and overviews of recent AI Governance or Policy proposals or any other related topics/interest that you think are relevant to the Kings AI reading group. For information on joining the reading group or registering interest to present, please email Israel Mason-Williams @ <israel.mason-williams@kcl.ac.uk> or <i.mason-williams24@imperial.ac.uk>. 
+
+Currently, this reading group operates in an online format supported by Microsoft Teams; however, depending on members' preferences, there is an appetite to support hybrid in-person attendance in the future.
+
+We aim to publish presentation details on the website every four weeks, but if you would prefer to keep your presentation private, please contact us so that we can accommodate this request. 

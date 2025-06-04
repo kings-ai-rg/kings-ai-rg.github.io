@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /talks-and-papers/
+title: Talks and Papers
 nav: true
 nav_order: 1
 pagination:
