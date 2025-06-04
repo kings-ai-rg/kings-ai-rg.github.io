@@ -12,4 +12,4 @@ Current schedule for June 2025:
 - 20th of June : TBA.
 - 27th of June : TBA.
 
-Please please email Israel Mason-Williams @ <israel.mason-williams@kcl.ac.uk> or <i.mason-williams24@imperial.ac.uk> if you would like to give a talk in June/July/August. 
+Please email Israel Mason-Williams @ <israel.mason-williams@kcl.ac.uk> or <i.mason-williams24@imperial.ac.uk> if you would like to give a talk in June/July/August. 
