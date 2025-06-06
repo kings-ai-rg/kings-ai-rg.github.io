@@ -8,11 +8,11 @@ categories: talks
 related_publications: true
 ---
 
-**[Israel Mason-Williams](https://www.linkedin.com/in/israelfmw/)**, **[Nathalie Kirch](https://www.linkedin.com/in/nathaliekirch/)** and **[Archie Sage](https://www.linkedin.com/in/archie-sage-3388bb260/)** will be presenting a summary of the of International AI Safety Report {% cite bengio2025international %}
+**[Israel Mason-Williams](https://www.linkedin.com/in/israelfmw/)**, **[Nathalie Kirch](https://www.linkedin.com/in/nathaliekirch/)** and **[Archie Sage](https://www.linkedin.com/in/archie-sage-3388bb260/)** presented a summary of the  International AI Safety Report {% cite bengio2025international %}
 
 **_Abstract_**
 
-This series of talks presents key insights from the latest International Safety Report, a comprehensive analysis of the three sections comprising Capabilities of general-purpose AI, Risks, and Technical approaches to risk management. Drawing on data from government agencies, industry leaders, and international organizations, the report highlights critical opinions surrounding Safe AI development. Attendees will gain a perspective on evolving safety standards, regulatory frameworks, and the role of technology and cross-border collaboration in mitigating risk.
+This series of talks presented key insights from the latest International Safety Report, a comprehensive analysis of the three sections comprising Capabilities of general-purpose AI, Risks, and Technical approaches to risk management. Drawing on data from government agencies, industry leaders, and international organizations, the report highlights critical opinions surrounding Safe AI development. Antendees gained a perspective on evolving safety standards, regulatory frameworks, and the role of technology and collaboration in mitigating risk.
 
 **Updates**
 

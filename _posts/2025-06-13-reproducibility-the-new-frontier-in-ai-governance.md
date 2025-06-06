@@ -8,7 +8,7 @@ categories: talks
 related_publications: true
 ---
 
-**[Israel Mason-Williams](https://openreview.net/profile?id=~Israel_Mason-Williams1)** will be presenting their ongoing work surrounding AI governance.
+**[Israel Mason-Williams](https://openreview.net/profile?id=~Israel_Mason-Williams1)** presented their ongoing work surrounding AI governance which was accepted at the ICML Workshop on Technical AI Governance.
 
 **_Abstract_**
 

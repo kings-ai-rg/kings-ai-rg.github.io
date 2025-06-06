@@ -8,7 +8,7 @@ categories: talks
 related_publications: true
 ---
 
-**[Israel Mason-Williams](https://openreview.net/profile?id=~Israel_Mason-Williams1)** will be presenting and discussing the paper Neural Network Compression: The Functional Perspective (+ Extensions) {% cite mason-williams2024neural %} {% cite mason-williams2024knowledge %}.
+**[Israel Mason-Williams](https://openreview.net/profile?id=~Israel_Mason-Williams1)** presented and discussed the paper Neural Network Compression: The Functional Perspective (+ Extensions) which was accepted at PML4LRS Workshop at ICLR 2024 {% cite mason-williams2024neural %} and with extensions accepted at NeurIPS Sci4DL Workshop {% cite mason-williams2024knowledge %}. 
 
 **_Abstract_**
 
