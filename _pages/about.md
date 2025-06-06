@@ -14,7 +14,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Welcome to the Kings AI reading group; we explore a wide variety of topics including, but not limited to:
+Welcome to the King's AI reading group; we explore a wide variety of topics including, but not limited to:
 
 - AI Safety and Security
 - (Mechanistic) Interpretability
