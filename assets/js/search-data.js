@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/organisers/";
           },
-        },{id: "post-on-the-biology-of-a-large-language-model-anthropic",
+        },{id: "post-the-biology-of-a-large-language-model-anthropic",
         
-          title: "On the Biology of a Large Language Model (Anthropic)",
+          title: "The Biology of a Large Language Model (Anthropic)",
         
         description: "Presented by Nathalie Kirch",
         section: "Posts",
@@ -41,26 +41,15 @@ ninja.data = [{
             window.location.href = "/blog/2025/biology-llms-anthropic/";
           
         },
-      },{id: "post-reflections-on-international-ai-safety-report",
+      },{id: "post-reflections-on-the-international-ai-safety-report",
         
-          title: "Reflections on International AI Safety Report",
+          title: "Reflections on The International AI Safety Report",
         
         description: "Presented by Israel Mason-Williams,Nathalie Kirch and Archie Sage.",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/international-AI-safety-report/";
-          
-        },
-      },{id: "post-generative-flow-networks-gflownets",
-        
-          title: "Generative Flow Networks (GFlowNets)",
-        
-        description: "Presented by Avyav Singh",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/Generative-Flow-Networks/";
           
         },
       },{id: "post-deepseek-v1-v2-and-v3-deep-dive",
@@ -83,6 +72,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/neurips-recap/";
+          
+        },
+      },{id: "post-generative-flow-networks-gflownets",
+        
+          title: "Generative Flow Networks (GFlowNets)",
+        
+        description: "Presented by Avyav Singh",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/Generative-Flow-Networks/";
           
         },
       },{id: "post-neural-network-compression-the-functional-perspective-extensions",
