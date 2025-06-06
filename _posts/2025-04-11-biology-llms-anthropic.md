@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the Biology of a Large Language Model (Anthropic)
+title: The Biology of a Large Language Model (Anthropic)
 date: 2025-04-11 12:00:00
 description: Presented by Nathalie Kirch
 tags: paper-presentation

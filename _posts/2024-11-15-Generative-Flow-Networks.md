@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generative Flow Networks (GFlowNets)
-date: 2025-02-14 12:00:00
+date: 2024-11-15 12:00:00
 description: Presented by Avyav Singh
 tags: paper-presentation
 categories: talks

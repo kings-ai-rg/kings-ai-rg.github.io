@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections on International AI Safety Report
+title: Reflections on The International AI Safety Report
 date: 2025-03-07 12:00:00
 description: Presented by Israel Mason-Williams,Nathalie Kirch and Archie Sage.
 tags: meta-research governance policy
