@@ -52,6 +52,28 @@ ninja.data = [{
             window.location.href = "/blog/2025/international-AI-safety-report/";
           
         },
+      },{id: "post-generative-flow-networks-gflownets",
+        
+          title: "Generative Flow Networks (GFlowNets)",
+        
+        description: "Presented by Avyav Singh",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Generative-Flow-Networks/";
+          
+        },
+      },{id: "post-deepseek-v1-v2-and-v3-deep-dive",
+        
+          title: "DeepSeek V1, V2 and V3 Deep Dive",
+        
+        description: "Presented by Avyav Singh",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/DeepSeek/";
+          
+        },
       },{id: "post-neurips-2024-recap",
         
           title: "NeurIPS 2024 Recap",
