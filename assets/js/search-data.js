@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/organisers/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2025-06-13-reproducibility-the-new-frontier-in-ai-governance-copy/";
-          
-        },
-      },{id: "post-a-survey-of-cognitive-distortion-detection-and-classification-in-nlp",
+        },{id: "post-a-survey-of-cognitive-distortion-detection-and-classification-in-nlp",
         
           title: "A Survey of Cognitive Distortion Detection and Classification in NLP",
         
@@ -50,6 +39,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/cognitive-distortion-detection-copy/";
+          
+        },
+      },{id: "post-reproducibility-the-new-frontier-in-ai-governance",
+        
+          title: "Reproducibility The New Frontier in AI Governance",
+        
+        description: "Presented by Israel Mason-Williams",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/reproducibility-the-new-frontier-in-ai-governance-copy/";
           
         },
       },{id: "post-the-biology-of-a-large-language-model-anthropic",
