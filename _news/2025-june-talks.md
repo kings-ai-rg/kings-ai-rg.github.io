@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Current schedule for June 2025:
+Schedule for June 2025:
 
 - 13th of June [Israel Mason-Williams](https://www.linkedin.com/in/israelfmw/): Reproducibility: The New Frontier in AI Governance.
 - 20th of June : [Archie Sage](https://www.linkedin.com/in/archie-sage-3388bb260/): A Survey Review of Mental Health and Natural Language Processing. 

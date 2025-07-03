@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reproducibility The New Frontier in AI Governance
+title: Reproducibility: The New Frontier in AI Governance
 date: 2025-06-13 12:00:00
 description: Presented by Israel Mason-Williams
 tags: ongoing-work

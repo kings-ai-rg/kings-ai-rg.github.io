@@ -1,6 +1,6 @@
 ---
 layout: post
-title: June Talks 2025
+title: July Talks 2025
 date: 2025-07-03 12:00:00
 inline: false
 related_posts: false
