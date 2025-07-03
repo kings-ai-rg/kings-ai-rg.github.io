@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/organisers/";
           },
-        },{id: "post-the-biology-of-a-large-language-model-anthropic",
+        },{id: "post-a-survey-of-cognitive-distortion-detection-and-classification-in-nlp",
+        
+          title: "A Survey of Cognitive Distortion Detection and Classification in NLP",
+        
+        description: "Presented by Archie Sage",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/cognitive-distortion-detection-copy/";
+          
+        },
+      },{id: "post-reproducibility-the-new-frontier-in-ai-governance",
+        
+          title: "Reproducibility The New Frontier in AI Governance",
+        
+        description: "Presented by Israel Mason-Williams",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/reproducibility-the-new-frontier-in-ai-governance-copy/";
+          
+        },
+      },{id: "post-the-biology-of-a-large-language-model-anthropic",
         
           title: "The Biology of a Large Language Model (Anthropic)",
         
@@ -101,6 +123,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-june-talks/";
+            },},{id: "news-june-talks-2025",
+          title: 'June Talks 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-july-talks/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
