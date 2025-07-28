@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/organisers/";
           },
-        },{id: "post-a-survey-of-cognitive-distortion-detection-and-classification-in-nlp",
+        },{id: "post-agentic-ai-systems-promises-risks-and-the-paths-forward",
+        
+          title: "Agentic AI systems - Promises, Risks and the Paths Forward",
+        
+        description: "Presented by Nicole Obretincheva",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/agentic-AI/";
+          
+        },
+      },{id: "post-a-survey-of-cognitive-distortion-detection-and-classification-in-nlp",
         
           title: "A Survey of Cognitive Distortion Detection and Classification in NLP",
         
