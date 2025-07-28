@@ -8,7 +8,7 @@ categories: talks
 related_publications: true
 ---
 
-**[Nicole Obretincheva](https://www.linkedin.com/in/nicole-obretincheva-b78619209/)** presented a review on Agentic AI systems which includes an overview of work presented by Microsoft, OWASP, IBM, and the EU AI Act.
+**[Nicole Obretincheva](https://www.linkedin.com/in/nicole-obretincheva-b78619209/)** presented a review on Agentic AI systems, which includes an overview of work presented by Microsoft, OWASP, IBM, and the EU AI Act.
 
 **_Abstract_**
 

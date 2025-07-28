@@ -14,6 +14,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
+<div class="text-center mt-5">
+  <img class=" " src="/assets/img/KingsAIReadingGroup.jpg" alt="Kings AI reading group members after a meal at Dishoom, Covent Garden, June 27th 2025."/>
+</div>
 Welcome to the King's AI reading group; we explore a wide variety of topics including, but not limited to:
 
 - AI Safety and Security
