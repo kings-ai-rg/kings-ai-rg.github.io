@@ -15,7 +15,7 @@ announcements:
 ---
 
 <div class="text-center mt-5">
-  <img class="profile-pic" src="/assets/img/KingsAIReadingGroup.jpg" alt="Kings AI reading group members after a meal at Dishoom, Covent Garden, June 27th 2025." captiomn ='Kings AI reading group members after a meal at Dishoom, Covent Garden, June 27th 2025' width="300" height="200"/>
+  <img class="profile-pic" src="/assets/img/KingsAIReadingGroup.jpg" alt="Kings AI reading group members after a meal at Dishoom, Covent Garden, June 27th 2025." caption ='Kings AI reading group members after a meal at Dishoom, Covent Garden, June 27th 2025' width="600" height="500"/>
 </div>
 Welcome to the King's AI reading group; we explore a wide variety of topics including, but not limited to:
 
