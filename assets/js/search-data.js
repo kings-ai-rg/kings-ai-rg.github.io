@@ -139,6 +139,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-july-talks/";
+            },},{id: "news-august-summer-break-2025",
+          title: 'August Summer Break 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-august-talks/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
